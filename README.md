@@ -1,1 +1,1 @@
-# python-for-every-body
+# Python-for-everybody-Specialization-Coursera
